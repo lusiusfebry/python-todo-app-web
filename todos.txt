@@ -1,6 +1,5 @@
 belajar python
 makan
 bangun
-antar anak ke sekolahjemput anakantar anak
 antar anak
-jemput
+pylag
